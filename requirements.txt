@@ -1,0 +1,11 @@
+pymupdf
+sentence-transformers
+faiss-cpu
+torch
+gradio
+pandas
+requests
+rank-bm25
+openai
+ragas>=0.4.0,<0.5
+numpy

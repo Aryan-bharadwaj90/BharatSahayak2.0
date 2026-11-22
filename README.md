@@ -22,21 +22,20 @@ BharatSahayak answers questions about 11 central government schemes: benefits, w
 
 ## Supported schemes
 
-| Scheme | Category | Eligibility rules |
-|---|---|:---:|
-| Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) | Farmers | ✅ |
-| Ayushman Bharat – PM Jan Arogya Yojana (PM-JAY) | Health | ✅ |
-| Pradhan Mantri Awas Yojana – Urban (PMAY-U) | Housing | ✅ |
-| Pradhan Mantri Awaas Yojana – Gramin (PMAY-G) | Housing | ✅ |
-| Pradhan Mantri Jan-Dhan Yojana (PMJDY) | Banking | — |
-| Atal Pension Yojana (APY) | Pension | — |
-| Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) | Insurance | — |
-| Pradhan Mantri Suraksha Bima Yojana (PMSBY) | Insurance | — |
-| Pradhan Mantri MUDRA Yojana (PMMY) | Loans | — |
-| Pradhan Mantri Ujjwala Yojana (PMUY) | LPG | — |
-| Pradhan Mantri Fasal Bima Yojana (PMFBY) | Crop insurance | — |
+| Scheme | Category |
+|---|---|
+| Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) | Farmers |
+| Ayushman Bharat – PM Jan Arogya Yojana (PM-JAY) | Health |
+| Pradhan Mantri Awas Yojana – Urban (PMAY-U) | Housing |
+| Pradhan Mantri Awaas Yojana – Gramin (PMAY-G) | Housing |
+| Pradhan Mantri Jan-Dhan Yojana (PMJDY) | Banking |
+| Atal Pension Yojana (APY) | Pension |
+| Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) | Insurance |
+| Pradhan Mantri Suraksha Bima Yojana (PMSBY) | Insurance |
+| Pradhan Mantri MUDRA Yojana (PMMY) | Loans |
+| Pradhan Mantri Ujjwala Yojana (PMUY) | LPG |
+| Pradhan Mantri Fasal Bima Yojana (PMFBY) | Crop insurance |
 
-All 11 schemes support question answering. The eligibility check is available for the four schemes marked ✅.
 
 ## How it works
 
